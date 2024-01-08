@@ -144,6 +144,8 @@ Head over to [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) fo
 
 ## Configuration
 
+## Configuration 2
+
 NexT comes with few configurations.
 
 ```yml
